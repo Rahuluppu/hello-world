@@ -10,9 +10,11 @@
         <a href="#" class="fb btn">
           <i class="fa fa-facebook fa-fw"></i> Login with Facebook
         </a>
+        
         <a href="#" class="twitter btn">
           <i class="fa fa-twitter fa-fw"></i> Login with Twitter
         </a>
+ 
         <a href="#" class="google btn">
           <i class="fa fa-google fa-fw"></i> Login with Google+
         </a>
@@ -24,8 +26,11 @@
         </div>
 
         <input type="text" name="username" placeholder="Username" required>
+        <br>
         <input type="password" name="password" placeholder="Password" required>
+        <br>
         <input type="submit" value="Login">
+        <br>
       </div>
 
     </div>
