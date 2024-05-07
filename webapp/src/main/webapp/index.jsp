@@ -24,13 +24,13 @@
         <div class="hide-md-lg">
           <p>Or sign in manually:</p>
         </div>
-        <label><b>Username</b></label
+        <label><b>Username</b></label>
         <input type="text" name="username" placeholder="Username" required>
         <br>
-        <label><b>Password</b></label
+        <label><b>Password</b></label>
         <input type="password" name="password" placeholder="Password" required>
         <br>
-        <label><b>Login</b></label
+        <label><b>Login</b></label>
         <input type="submit" value="Login">
         <br>
       </div>
